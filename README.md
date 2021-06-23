@@ -1,0 +1,2 @@
+# lgs-rechner
+self explanatory
