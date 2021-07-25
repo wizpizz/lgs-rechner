@@ -1,2 +1,1 @@
 # lgs-rechner
-self explanatory
