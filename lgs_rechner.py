@@ -55,7 +55,7 @@ def menu():
                 f"Verfahren: {vf}\n"
                 "------------------------------------------------\n"
                 f"x = {lgs_rechner(g1, g2, vf)[0]}\n"
-                f"x = {lgs_rechner(g1, g2, vf)[1]}\n"
+                f"y = {lgs_rechner(g1, g2, vf)[1]}\n"
                 "------------------------------------------------\n"
                 "Nochmal? (ja/nein): ")
   if again.lower() == "ja":
